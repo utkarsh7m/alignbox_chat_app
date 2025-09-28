@@ -1,0 +1,60 @@
+.chat-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #1f1f1f;
+    border-bottom: 1px solid #333;
+}
+
+.group-info {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex-grow: 1; 
+    justify-content: center; 
+}
+
+.group-info img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.group-info h1 {
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+.back-btn,
+.toggle-btn {
+    width: 40px;
+    height: 40px;
+    background: none;
+    border: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.back-btn {
+    color: #f0f0f0;
+}
+
+.toggle-btn {
+    border-radius: 50%;
+}
+
+.anonymous-off {
+    background-color: white;
+    border: 2px solid #c8102e;
+    color: #c8102e;
+}
+
+.anonymous-on {
+    background-color: #c8102e;
+    border: 2px solid white;
+    color: white;
+}

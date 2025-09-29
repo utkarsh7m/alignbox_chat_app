@@ -6,6 +6,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 A fully functional, real-time chat application built for the Alignbox assignment. This project demonstrates a full-stack implementation with a focus on clean code, responsive design, and a polished user experience.
+<img width="1440" height="1080" alt="chat-app-screenshot" src="https://github.com/user-attachments/assets/1965e8f5-a5f2-41c4-9ab6-94f07499074d" />
 
 ---
 
